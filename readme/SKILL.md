@@ -1,5 +1,5 @@
 ---
-name: Create GitHub README
+name: readme
 description: Generate a professional GitHub README.md file following open standards with tech badges, architecture diagrams, setup instructions, and acknowledgements.
 ---
 

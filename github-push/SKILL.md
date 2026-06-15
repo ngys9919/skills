@@ -1,5 +1,5 @@
 ---
-name: GitHub Push
+name: github-push
 description: Secure git push with automatic secret detection and README generation. Scans for exposed API keys, credentials, and secrets before pushing to GitHub.
 ---
 
