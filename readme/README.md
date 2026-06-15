@@ -16,7 +16,7 @@ npx skills add https://github.com/ngys9919/skills --skill readme
 Once installed, trigger the skill in Claude Code using:
 
 ```
-/create_github_readme
+/readme
 ```
 
 Or use natural language:
