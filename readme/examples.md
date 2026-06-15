@@ -1,8 +1,8 @@
 # Examples
 
 ## Trigger Phrases
-- "/create_github_readme"
-- "create github readme"
+- "/readme"
+- "create readme"
 
 ## Example Prompts
 

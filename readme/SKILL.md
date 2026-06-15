@@ -3,10 +3,10 @@ name: readme
 description: Generate a professional GitHub README.md file following open standards with tech badges, architecture diagrams, setup instructions, and acknowledgements.
 ---
 
-# Create GitHub README
+# Create README.md documentation
 
 ## Command
-`/create_github_readme` or `create_github_readme`
+`/readme` or `readme`
 
 ## Navigate
 Documentation
@@ -35,7 +35,7 @@ The README will include:
 | **Getting Started** | Prerequisites, installation, running |
 | **Deployment** | Docker, Hugging Face Spaces instructions |
 | **Contributing** | Fork, PR workflow, discussions |
-| **Developed By** | Tertiary Infotech Academy Pte. Ltd. |
+| **Developed By** | Eric Ng |
 | **Acknowledgements** | Credits and thanks |
 
 ## Instructions
